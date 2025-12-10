@@ -14,8 +14,7 @@ public:
     int health;
     int hunger;
     string zvuk;
-    int age;
-};
+    int age;};
 
 
 #endif //TYMOVY_PROJEKT_STVORENI_H
