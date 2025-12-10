@@ -8,6 +8,6 @@
 
 #endif //TYMOVY_PROJEKT_CLOVEK_H
 class clovek : public stvoreni {
-    public:
+    public: 
 
 };
