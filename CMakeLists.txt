@@ -6,4 +6,8 @@ set(CMAKE_CXX_STANDARD 20)
 add_executable(Tymovy_projekt main.cpp
         stvoreni.cpp
         stvoreni.h
-        clovek.h)
+        clovek.h
+        nepritel.cpp
+        nepritel.h
+        goblin.cpp
+        goblin.h)
