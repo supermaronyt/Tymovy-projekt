@@ -11,8 +11,8 @@
 using namespace std;
 class stvoreni {
 public:
-    int health;
-    int damage;
+    int health = 0;
+    int damage = 0;
 };
 
 

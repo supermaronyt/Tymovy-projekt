@@ -7,10 +7,9 @@
 #include "../nepritel.h"
 
 
-namespace std {
+using namespace std;
     class goblin : public nepritel {
         public:
     };
-} // std
 
 #endif //TYMOVY_PROJEKT_GOBLIN_H

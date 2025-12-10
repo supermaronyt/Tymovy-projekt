@@ -6,11 +6,10 @@
 #define TYMOVY_PROJEKT_NEPRITEL_H
 #include "stvoreni.h"
 
-namespace std {
-    class nepritel : public stvoreni {
-        int odmena;
-        int damage;
-    };
-} // std
+using namespace std;
 
+class nepritel : public stvoreni {
+        int odmena = 0;
+        int damage = 0;
+    };
 #endif //TYMOVY_PROJEKT_NEPRITEL_H
