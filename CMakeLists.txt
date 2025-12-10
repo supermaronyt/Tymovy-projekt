@@ -7,4 +7,5 @@ add_executable(Tymovy_projekt main.cpp
         stvoreni.cpp
         stvoreni.h
         zvire.cpp
-        zvire.h)
+        zvire.h
+        clovek.h)
