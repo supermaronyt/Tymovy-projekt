@@ -4,9 +4,12 @@
 
 #ifndef TYMOVY_PROJEKT_GOBLIN_H
 #define TYMOVY_PROJEKT_GOBLIN_H
+#include "../nepritel.h"
+
 
 namespace std {
-    class goblin {
+    class goblin : public nepritel {
+        public:
     };
 } // std
 

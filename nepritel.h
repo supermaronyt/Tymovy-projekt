@@ -4,9 +4,12 @@
 
 #ifndef TYMOVY_PROJEKT_NEPRITEL_H
 #define TYMOVY_PROJEKT_NEPRITEL_H
+#include "stvoreni.h"
 
 namespace std {
-    class nepritel {
+    class nepritel : public stvoreni {
+        int odmena;
+        int damage;
     };
 } // std
 

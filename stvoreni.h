@@ -12,9 +12,8 @@ using namespace std;
 class stvoreni {
 public:
     int health;
-    int hunger;
-    string zvuk;
-    int age;};
+    int damage;
+};
 
 
 #endif //TYMOVY_PROJEKT_STVORENI_H
