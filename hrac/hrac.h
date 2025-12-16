@@ -4,11 +4,12 @@
 
 #ifndef TYMOVY_PROJEKT_HRAC_H
 #define TYMOVY_PROJEKT_HRAC_H
+#include "../stvoreni.h"
 
 using namespace std;
-class hrac {
-public:
-    
+    class hrac : public stvoreni {
+        public:
+
 };
 
 
