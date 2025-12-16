@@ -4,5 +4,4 @@
 
 #include "goblin.h"
 
-namespace std {
-} // std
+using namespace std;
