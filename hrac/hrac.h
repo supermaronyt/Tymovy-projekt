@@ -5,9 +5,10 @@
 #ifndef TYMOVY_PROJEKT_HRAC_H
 #define TYMOVY_PROJEKT_HRAC_H
 
-
+using namespace std;
 class hrac {
-
+public:
+    
 };
 
 
