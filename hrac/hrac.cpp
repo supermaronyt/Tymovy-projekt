@@ -3,3 +3,10 @@
 //
 
 #include "hrac.h"
+namespace std {
+
+}
+
+int mian{
+
+};
