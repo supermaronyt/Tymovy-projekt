@@ -3,3 +3,7 @@
 //
 
 #include "hrac.h"
+
+int mian{
+    
+};
