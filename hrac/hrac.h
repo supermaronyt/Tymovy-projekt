@@ -9,6 +9,7 @@
 using namespace std;
     class hrac : public stvoreni {
         public :
+            hrac();
 
 };
 
