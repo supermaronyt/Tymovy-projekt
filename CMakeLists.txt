@@ -12,5 +12,5 @@ add_executable(Tymovy_projekt main.cpp
         nepratele/goblin.h
         hrac/hrac.cpp
         hrac/hrac.h
-        Mapa.cpp
-        Mapa.h)
+        world/Mapa.cpp
+        world/Mapa.h)
