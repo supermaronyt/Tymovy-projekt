@@ -10,6 +10,5 @@ using namespace std;
 
 class nepritel : public stvoreni {
         int odmena = 0;
-        int damage = 0;
     };
 #endif //TYMOVY_PROJEKT_NEPRITEL_H
