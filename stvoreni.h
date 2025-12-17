@@ -13,6 +13,7 @@ class stvoreni {
 public:
     int health = 0;
     int damage = 0;
+    int evasionRate = 0;
 };
 
 
